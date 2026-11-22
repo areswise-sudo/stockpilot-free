@@ -1,0 +1,11 @@
+[
+ {"code":"2330","name":"台積電","market":"TW"},
+ {"code":"2301","name":"光寶科","market":"TW"},
+ {"code":"2327","name":"國巨","market":"TW"},
+ {"code":"2377","name":"微星","market":"TW"},
+ {"code":"4542","name":"科嶠","market":"TWO"},
+ {"code":"3498","name":"陽程","market":"TWO"},
+ {"code":"NVDA","name":"NVIDIA","market":"US"},
+ {"code":"CRWV","name":"CoreWeave","market":"US"},
+ {"code":"TSLA","name":"Tesla","market":"US"}
+]
