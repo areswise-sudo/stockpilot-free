@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-11-25T00:02:23.807231+00:00",
+  "updated_at": "2026-11-26T00:04:52.353415+00:00",
   "results": [
     {
       "code": "2330",
       "symbol": "2330.TW",
       "ok": true,
-      "last_date": "2026-11-24",
-      "count": 485
+      "last_date": "2026-11-25",
+      "count": 486
     },
     {
       "code": "2301",
       "symbol": "2301.TW",
       "ok": true,
-      "last_date": "2026-11-24",
-      "count": 485
+      "last_date": "2026-11-25",
+      "count": 486
     },
     {
       "code": "2327",
       "symbol": "2327.TW",
       "ok": true,
-      "last_date": "2026-11-24",
-      "count": 485
+      "last_date": "2026-11-25",
+      "count": 486
     },
     {
       "code": "2377",
       "symbol": "2377.TW",
       "ok": true,
-      "last_date": "2026-11-24",
-      "count": 485
+      "last_date": "2026-11-25",
+      "count": 486
     },
     {
       "code": "4542",
       "symbol": "4542.TWO",
       "ok": true,
-      "last_date": "2026-11-24",
-      "count": 485
+      "last_date": "2026-11-25",
+      "count": 486
     },
     {
       "code": "3498",
       "symbol": "3498.TWO",
       "ok": true,
-      "last_date": "2026-11-24",
-      "count": 485
+      "last_date": "2026-11-25",
+      "count": 486
     },
     {
       "code": "NVDA",
       "symbol": "NVDA",
       "ok": true,
-      "last_date": "2026-11-24",
+      "last_date": "2026-11-25",
       "count": 501
     },
     {
       "code": "CRWV",
       "symbol": "CRWV",
       "ok": true,
-      "last_date": "2026-11-24",
-      "count": 418
+      "last_date": "2026-11-25",
+      "count": 419
     },
     {
       "code": "TSLA",
       "symbol": "TSLA",
       "ok": true,
-      "last_date": "2026-11-24",
+      "last_date": "2026-11-25",
       "count": 501
     }
   ]
